@@ -21,12 +21,6 @@ public final class Constants {
 	public static final double CHIPS_PRICE = 0.5;
 	public static final double CANDY_PRICE = 0.65;
 
-	/*
-	 * public static final Product COLA = new Product(1.0, 10); public static final
-	 * Product CHIPS = new Product(0.5, 5); public static final Product CANDY = new
-	 * Product(0.65, 0);
-	 */
-
 	public static final Product COLA = new Product(COLA_PRICE, 10);
 	public static final Product CHIPS = new Product(CHIPS_PRICE, 5);
 	public static final Product CANDY = new Product(CANDY_PRICE, 0);
